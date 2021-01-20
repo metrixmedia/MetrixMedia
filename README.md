@@ -35,18 +35,18 @@ Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail
 
 # Remerciements
 
-# CloudFlare
+## CloudFlare
 
-Protection DDoS, CDN, Optimisation Javascript/HTML/CSS, AlwaysOnline, Captcha, SSL/TLS 1.3
+Protection DDoS, CDN, Optimisation Javascript/HTML/CSS, AlwaysOnline, Captcha, SSL/TLS 1.3, Pare-Feu, Caching, Redirection Trafic, Nom de Domaine
 
-# Google Cloud
+## Google Cloud
 
-Hébergement Web, Hébergement Cloud, Hébergement VPS Bot Discord 24H/24
+Hébergement Web, Hébergement Cloud, Hébergement VPS Bot Discord 24H/24, Hébergement Emails
 
-# Repl.it
+## Repl.it
 
 Débogage, Shell Python 3, Solution Bot Discord 24H/24
 
-# PayPal / Stripe
+## PayPal / Stripe
 
 Solution de paiement direct, Apple Pay, Google Pay, Samsung Pay
