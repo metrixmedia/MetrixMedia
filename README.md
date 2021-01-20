@@ -22,4 +22,13 @@ Vous avez besoin de jeux, de memes ou seulement un peu de musique ? Nos bots Dis
 
 # Contact 
 
-Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail sur <a href="mailto://help@metrix.cf">help@metrix.cf</a> ou utiliser <a href="www.metrix.cf/support">le support Metrix</a>.
+Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail sur <a href="mailto://help@metrix.cf">help@metrix.cf</a> ou utiliser <a href="https://www.metrix.cf/support">le support Metrix</a>.
+
+# Liens Utiles
+
+## Boutique Metrix : metrix.cf
+## Boutique JeuxVidéos-Metrix : steam.metrix.cf
+## Statut Metrix : status.metrix.cf
+## S.A.V. : sav.metrix.cf
+## Réception de codes : access.metrix.cf
+## Site officiel MetrixMedia : hello.metrix.cf
