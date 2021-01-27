@@ -26,12 +26,12 @@ Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail
 
 # Liens Utiles
 
+## Site officiel MetrixMedia : <a href="https://hello.metrix.cf">hello.metrix.cf</a>
 ## Boutique Metrix : <a href="https://metrix.cf">metrix.cf</a>
 ## Boutique JeuxVidéos-Metrix : <a href="https://steam.metrix.cf">steam.metrix.cf</a>
 ## Statut Metrix : <a href="https://status.metrix.cf">status.metrix.cf</a>
 ## S.A.V. : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
 ## Réception de codes : <a href="https://access.metrix.cf">access.metrix.cf</a>
-## Site officiel MetrixMedia : <a href="https://hello.metrix.cf">hello.metrix.cf</a>
 
 # Remerciements
 
@@ -45,8 +45,12 @@ Hébergement Web, Hébergement Cloud, Hébergement VPS Bot Discord 24H/24, Hébe
 
 ## Repl.it
 
-Débogage, Shell Python 3, Solution Bot Discord 24H/24
+Débogage, Shell Python 3, Solution Bot Discord 24H/24, IDE Python 3/HTML/Bash
 
 ## PayPal / Stripe
 
 Solution de paiement direct, Apple Pay, Google Pay, Samsung Pay
+
+## GitHub
+
+Hébergement Web, Git, IDE, Gestion de projets et de versions
