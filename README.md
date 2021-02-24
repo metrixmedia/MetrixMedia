@@ -38,7 +38,7 @@ Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail
 
 ## CloudFlare
 
-Protection DDoS, CDN, Optimisation Javascript/HTML/CSS, AlwaysOnline, Captcha, SSL/TLS 1.3, Pare-Feu, Caching, Redirection Trafic, Nom de Domaine
+Protection DDoS, CDN, Optimisation Javascript/HTML/CSS, AlwaysOnline, Captcha, SSL/TLS 1.3, Pare-Feu, Caching, Redirection Trafic, Nom de Domaine, Hébergement Workers
 
 ## Google Cloud
 
