@@ -1,9 +1,67 @@
 <!DOCTYPE html>
     <html xmlns="http://www.w3.org/1999/xhtml">
       <head>
+        <title>Upload to MetrixDrive</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+        <style> 
+          body {
+            background-image: linear-gradient(rgb(35, 31, 32, 1), rgba(35, 31, 32, 1));
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+          }
+        </style>
+        <style>
+          .buttons {
+            margin: 10%;
+            text-align: center;
+          }
+
+          .btn-hover {
+            width: 200px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            cursor: pointer;
+            margin: 20px;
+            height: 55px;
+            text-align: center;
+            border: none;
+            background-size: 300% 100%;
+
+            border-radius: 50px;
+            moz-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+            -webkit-transition: all 0.4s ease-in-out;
+            transition: all 0.4s ease-in-out;
+          }
+
+          .btn-hover:hover {
+            background-position: 100% 0;
+            moz-transition: all 0.4s ease-in-out;
+            -o-transition: all 0.4s ease-in-out;
+            -webkit-transition: all 0.4s ease-in-out;
+            transition: all 0.4s ease-in-out;
+          }
+
+          .btn-hover:focus {
+            outline: none;
+          }
+          
+          .btn-hover.color-10 {
+            background-image: linear-gradient(
+              to right,
+              #ed6ea0,
+              #ec8c69,
+              #f7186a,
+              #fbb03b
+            );
+            box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+          }
+        </style>
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <title>MetrixDrive Upload</title>
-
         <script type="text/javascript">
 
     // The Browser API key obtained from the Google API Console.
@@ -99,7 +157,15 @@
   </head>
   <body>
     <div id="result"></div>
-    <div id="continue"><a href="https://drive.metrix.cf">Retour à MetrixDrive</a></div>
+    <p align="center"><font size="5" face="Quicksand" color="white">Vous allez désormais uploader un fichier vers votre disque MetrixDrive personnel. La limite de transfert de fichiers est de 750 Go/Jour avec une limite de 5 To par fichiers.</font>.</p>
+    <div class="buttons">
+      <button id="retour" class="btn-hover color-10">Retour à MetrixDrive</button>
+  </div>
+  <script type="text/javascript">
+    document.getElementById("retour").onclick = function () {
+        location.href = "https://my.drive.metrix.cf";
+    };
+</script>
 
     <!-- The Google API Loader script. -->
     <script type="text/javascript" src="https://apis.google.com/js/api.js?onload=loadPicker"></script>
