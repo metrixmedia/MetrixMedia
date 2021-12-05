@@ -25,15 +25,14 @@ Vous avez besoin de jeux, de memes ou seulement un peu de musique ? Nos bots Dis
 Si vous voulez nous contacter, c'est ici ! Vous pouvez nous contacter par e-mail sur <a href="mailto://help@metrix.cf">help@metrix.cf</a> ou utiliser <a href="https://www.metrix.cf/support">le support Metrix</a>.
 
 # Liens Utiles
-
-## ✔️ Site officiel MetrixMedia : <a href="https://hello.metrix.cf">hello.metrix.cf</a>
-## 🛒 Boutique Metrix : <a href="https://metrix.cf">metrix.cf</a>
-## 🎮 Boutique MetrixJV : <a href="https://steam.metrix.cf">steam.metrix.cf</a>
+## ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
+## 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
+- ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
+- 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
+- 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
+- ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
+## 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
 ## 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
-## 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
-## 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
-## ☁️ MetrixDrive : <a href="https://drive.metrix.cf">drive.metrix.cf</a>
-## ⬇️ MetrixTorrent : <a href="https://www.metrix.cf/divers/torrentdownloader">metrix.cf</a>
 
 # Remerciements
 
@@ -56,3 +55,7 @@ Solution de paiement direct, Apple Pay, Google Pay, Samsung Pay
 ## GitHub
 
 Hébergement Web, Git, IDE, Gestion de projets et de versions
+
+## Microsoft
+
+Licences Serveur 
