@@ -58,4 +58,4 @@ Hébergement Web, Git, IDE, Gestion de projets et de versions
 
 ## Microsoft
 
-Licences Serveur 
+Licences Serveur (Microsoft Windows Server Edition 2022)
